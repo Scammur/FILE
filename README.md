@@ -7,4 +7,4 @@ python Hex.py
 
 for getting cookies:
 
-python login.py
+python x.py
